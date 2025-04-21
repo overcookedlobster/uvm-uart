@@ -1,0 +1,19 @@
+# Vivado generated files
+.Xil/
+xsim.dir/
+*.wdb
+*.jou
+*.log
+*.pb
+*.vcd
+*.str
+wave.tcl
+
+# Log directory - keep the directory structure but not the contents
+logs/*
+!logs/.gitkeep
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
